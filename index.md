@@ -9,3 +9,5 @@
 $ git init
 Thi should be some code
 ```
+- [ ] Turn in Homework for Lab 2 CPSC240
+- [ ] Start HW2 for DATA419
